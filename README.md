@@ -2,8 +2,6 @@
 
 ## beacon
 
-«Great art is horseshit, buy tacos»
-
 ![](pix/vandal3.png)
 
 ```
